@@ -1,4 +1,4 @@
-# Playing with springboot microservices
+# Playing with Sring Boot microservices
 Code for Playing with Spring Boot microservices tutorial
 
 Application's architecture :
